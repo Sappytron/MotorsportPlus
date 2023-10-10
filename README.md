@@ -10,7 +10,7 @@ INSTRUCTIONS:
   - Double clicking these files will bring a pop-up window to install the modules. Install all bundled modules.
   - Ensure that "Install Fonts" is ticked, before clicking "Import into SimHub Library".
 - Copy the 'OverlayLayouts' folder contents into your SimHub install folder of the same name.
-CONFIGURING THE GAME: 
+- CONFIGURING THE GAME: 
 - Go to Settings > Gameplay & HUD, and enter the following settings:
   - Data Out: On
   - Data Out IP Address: 127.0.0.1
