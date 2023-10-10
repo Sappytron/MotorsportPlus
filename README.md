@@ -5,7 +5,7 @@ SimHub is required to be installed for the overlay to function.
 INSTRUCTIONS:
 - Install SimHub: https://www.simhubdash.com/download-2/ (A restart will be required to finish install.)
   - You must be at version 9.1.1 or newer, or SimHub will not recognise FM.
-LOADING THE DASH MODULES:
+- LOADING THE DASH MODULES:
   - Included with MotorsportPlus is the modules themselves, denoted by the SimHub icon and .simhubdash file extension.
   - Double clicking these files will bring a pop-up window to install the modules. Install all bundled modules.
   - Ensure that "Install Fonts" is ticked, before clicking "Import into SimHub Library".
